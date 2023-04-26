@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 11
 
-* Last name:
+* Last name: Lau 
 
-* First name:
+* First name: Kelly
 
-* GitHub username:
+* GitHub username: kellylau1
 
 * Notes:
 
